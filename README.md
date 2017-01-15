@@ -13,4 +13,4 @@ Pour le reste, on peut déjà penser que ce dépôt pourrait à la fois contenir
 ## TODO
 
 1. Choix d'une licence. @iGormilhit propose `CC-BY`. D'ailleurs, est-ce bien utile d'avoir mis ce dépôt en mode privé ?
-
+2. Mentionner l'affaire [ADE](https://id-libre.org/shaarli/?aUbIGw).
