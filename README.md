@@ -4,7 +4,7 @@ Collaboration entre @grolimur et @iGormilhit pour un cours BIS : [Respecter la
 
 ## Gestion de projet
 
-Le dossier [`project-management`] contient les fichiers et les données de type administratif et organisationnels.
+Le dossier [`project-management`](project-management/) contient les fichiers et les données de type administratif et organisationnels.
 
 ## Autres dossiers
 
