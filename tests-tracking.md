@@ -18,7 +18,7 @@ Le tableau ci-dessous liste le nombre de mouchards détectés par ces 3 modules 
 *Bonus: vérification que la connexion à ces sites se fait (automatiquement) en HTTPS*   
 (**auto** = HTTPS supporté et automatique | **oui** = HTTPS supporté mais pas automatique | **non** = HTTPS non supporté)
 
-**Bibliothèques académiques**
+### Bibliothèques académiques
 
 | Site | Privacy Badger | Ghostery | Disconnect | Lightbeam | détails | *HTTPS* |
 | :--- | :------------: | :------: | :--------: | :-------: | :------ | :---: |
@@ -46,7 +46,7 @@ Le tableau ci-dessous liste le nombre de mouchards détectés par ces 3 modules 
 
 **[a]** ne fournit aucune information au sujet de son identité (pas de certificat SSL?)
 
-**Bibliothèques publiques (scolaires + municipales)**
+### Bibliothèques publiques (scolaires + municipales)
 
 | Site | Privacy Badger | Ghostery | Disconnect | Lightbeam | détails | *HTTPS* |
 | :--- | :------------: | :------: | :--------: | :-------: | :------ | :---: |
@@ -67,7 +67,7 @@ Le tableau ci-dessous liste le nombre de mouchards détectés par ces 3 modules 
 
 
 
-* v0.01 - fichier mis à jour le 31 décembre 2016*
+*v0.01 - fichier mis à jour le 31 décembre 2016*
 
 
 
