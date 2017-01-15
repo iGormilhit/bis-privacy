@@ -38,14 +38,14 @@ III: indispensable
 II: indispensable mais peu jouer des tours   
 u: utile
 
-[1] http://sebsauvage.net/wiki/doku.php?id=firefox (dernière modification: 2016/11/30 14:28)
-[2] https://blog.imirhil.fr/2015/12/08/extensions-vie-privee.html (2015-12-08)
-[3] https://addons.mozilla.org/fr/firefox/collections/aeris22/pr/ (mis à jour le 1er janvier 2016)
-[4] https://addons.mozilla.org/fr/firefox/collections/grolimur/proteger-sa-vie-privee/ (mis à jour le 27 décember 2016)
-[5] https://addons.mozilla.org/fr/firefox/collections/grolimur/safe-surf-toolbox/ (mis à jour le 27 décember 2016)
-[6] https://www.privacytools.io/#addons (dernière mis à jour?)
+[1] http://sebsauvage.net/wiki/doku.php?id=firefox (dernière modification: 2016/11/30 14:28)  
+[2] https://blog.imirhil.fr/2015/12/08/extensions-vie-privee.html (2015-12-08)  
+[3] https://addons.mozilla.org/fr/firefox/collections/aeris22/pr/ (mis à jour le 1er janvier 2016)   
+[4] https://addons.mozilla.org/fr/firefox/collections/grolimur/proteger-sa-vie-privee/ (mis à jour le 27 décember 2016)   
+[5] https://addons.mozilla.org/fr/firefox/collections/grolimur/safe-surf-toolbox/ (mis à jour le 27 décember 2016)   
+[6] https://www.privacytools.io/#addons (dernière mis à jour?)   
 
-*fichier mis à jour le 30 décembre 2016 à 10h37*
+*fichier mis à jour le 30 décembre 2016 à 10h37* -- [voir historique git]
 
 
 
