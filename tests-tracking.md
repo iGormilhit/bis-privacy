@@ -1,5 +1,7 @@
 # Tests de tracking
 
+**version `0.02`** (15.01.2017)
+
 ## Objectifs
 
 Cette petite expérience a pour objectifs de:
@@ -18,20 +20,20 @@ Le tableau ci-dessous liste le nombre de mouchards détectés par ces 3 modules 
 *Bonus: vérification que la connexion à ces sites se fait (automatiquement) en HTTPS*   
 (**auto** = HTTPS supporté et automatique | **oui** = HTTPS supporté mais pas automatique | **non** = HTTPS non supporté)
 
-**Bibliothèques académiques**
+### Bibliothèques académiques
 
-| Site | Privacy Badger | Ghostery | Disconnect | Lightbeam | détails | *HTTPS* |
-| :--- | :------------: | :------: | :--------: | :-------: | :------ | :---: |
-| OPAC RERO GE [1] | 2 | 0 | 0 | 2 | ajax.googleapis.com, cdn.jquerytools.org | *non* |
-| RERO Explore GE [2] | 4 | 1 * | 1 * | 1 * | fonts.googleapis.com, fonts.gstatic.com, cdn.jquerytools.org, www.google-analytics.com * | *non* |
-| RenouVaud [3] | 0 | 0 | 0 | 0 |  | *oui* |
-| OPAC NEBIS [4] | 0 | 0 | 0 | 0 |  | *non* |
-| NEBIS Recherche [5] | 1 | 0 | 0 | 1 | www.library.ethz.ch | *non* |
-| Wissensportal ETH [6] | 2 | 0 | 0 | 0 | fonts.googleapis.com, fonts.gstatic.com | *oui [a]* |
-| Rechercheportal ZB/UZH [7] | 2 | 0 | 0 | 0 | www.library.ethz.ch, www.hbz.uzh.ch | *non* |
-| BEAST [8] | 5 | 1 * | 1 * | 2 ** | actu.epfl.ch, jahia-prod.epfl.ch, library.epfl.ch, www.epfl.ch **, www.google-analytics.com * ** | *oui [a]* |
-| Swissbib [9] | 4 | 2 * | 2 * | 1 *** | fonts.googleapis.com, fonts.gstatic.com, by2.uservoice.com **, widget.uservoice.com * ** ***, Piwik * | *auto* |
-| Swissbib Basel Bern [10] | 5 | 2 * | 2 ** | 2 *** | fonts.googleapis.com, fonts.gstatic.com, by2.uservoice.com **, widget.uservoice.com * ** ***, eu.libraryh3lp.com ***, Piwik * | *auto* |
+| Site | Privacy Badger | Ghostery | Disconnect | Lightbeam | détails |
+| :--- | :------------: | :------: | :--------: | :-------: | :------ |
+| OPAC RERO GE [1] | 2 | 0 | 0 | 2 | ajax.googleapis.com, cdn.jquerytools.org |
+| RERO Explore GE [2] | 4 | 1 * | 1 * | 1 * | fonts.googleapis.com, fonts.gstatic.com, cdn.jquerytools.org, www.google-analytics.com * |
+| RenouVaud [3] | 0 | 0 | 0 | 0 |  |
+| OPAC NEBIS [4] | 0 | 0 | 0 | 0 |  |
+| NEBIS Recherche [5] | 1 | 0 | 0 | 1 | www.library.ethz.ch |
+| Wissensportal ETH [6] | 2 | 0 | 0 | 0 | fonts.googleapis.com, fonts.gstatic.com |
+| Rechercheportal ZB/UZH [7] | 2 | 0 | 0 | 0 | www.library.ethz.ch, www.hbz.uzh.ch |
+| BEAST [8] | 5 | 1 * | 1 * | 2 ** | actu.epfl.ch, jahia-prod.epfl.ch, library.epfl.ch, www.epfl.ch **, www.google-analytics.com * ** |
+| Swissbib [9] | 4 | 2 * | 2 * | 1 *** | fonts.googleapis.com, fonts.gstatic.com, by2.uservoice.com **, widget.uservoice.com * ** ***, Piwik * |
+| Swissbib Basel Bern [10] | 5 | 2 * | 2 ** | 2 *** | fonts.googleapis.com, fonts.gstatic.com, by2.uservoice.com **, widget.uservoice.com * ** ***, eu.libraryh3lp.com ***, Piwik * |
 
 **[1]** opac.rero.ch/gateway?skin=ge
 **[2]** explore.rero.ch/ge
@@ -44,17 +46,16 @@ Le tableau ci-dessous liste le nombre de mouchards détectés par ces 3 modules 
 **[9]** www.swissbib.ch
 **[10]** baselbern.swissbib.ch
 
-**[a]** ne fournit aucune information au sujet de son identité (pas de certificat SSL?)
 
-**Bibliothèques publiques (scolaires + municipales)**
+### Bibliothèques publiques (scolaires + municipales)
 
-| Site | Privacy Badger | Ghostery | Disconnect | Lightbeam | détails | *HTTPS* |
-| :--- | :------------: | :------: | :--------: | :-------: | :------ | :---: |
-| BM Lausanne [101] | 11 | 3 * | 55 [b] | 8 ** | s7.addthis.com * **, m.addthis.com, cdnjs.cloudflare.com **, www.dartfish.tv **, googleads.g.doubleclick.net * **, static.doubleclick.net, www.google.com, fonts.gstatic.com, www.youtube.com, i.ytimg.com, s.ytimg.com, images.amazon.com **, mediaeurope.dartfish.com, multimedia.fnac.com **, ssl.google-analytics.com, www.google-analytics.com * **, Youtube ** | *auto* |
-| BM Genève [102] | 0 | 0 | 0 | 0 |  | *auto* |
-| BM Pully [103] | 5 | 2 * | 2 * | 5 ** | stats.g.doubleclick.net **, staticxx.facebook.com, www.facebook.com **, marketplace.archimed.fr **, connect.facebook.net *, Google Analytics * **, images-amazon.com ** | *non* |
-| Médiathèque [104] | 5 | 2 * | 8 ** | 3 *** | ajax.googleapis.com *, cse.google.com, www.google.com ***, www.google-analytics.com * ***, www.googleapis.com ***, Google ** | *non* |
-| BM Morges [105] | 2 | 0 | 0 | 0 | www.meteoblue.com, www.doc-alain.com | *non* |
+| Site | Privacy Badger | Ghostery | Disconnect | Lightbeam | détails |
+| :--- | :------------: | :------: | :--------: | :-------: | :------ |
+| BM Lausanne [101] | 11 | 3 * | 55 [b] | 8 ** | s7.addthis.com * **, m.addthis.com, cdnjs.cloudflare.com **, www.dartfish.tv **, googleads.g.doubleclick.net * **, static.doubleclick.net, www.google.com, fonts.gstatic.com, www.youtube.com, i.ytimg.com, s.ytimg.com, images.amazon.com **, mediaeurope.dartfish.com, multimedia.fnac.com **, ssl.google-analytics.com, www.google-analytics.com * **, Youtube ** |
+| BM Genève [102] | 0 | 0 | 0 | 0 |  |
+| BM Pully [103] | 5 | 2 * | 2 * | 5 ** | stats.g.doubleclick.net **, staticxx.facebook.com, www.facebook.com **, marketplace.archimed.fr **, connect.facebook.net *, Google Analytics * **, images-amazon.com ** |
+| Médiathèque [104] | 5 | 2 * | 8 ** | 3 *** | ajax.googleapis.com *, cse.google.com, www.google.com ***, www.google-analytics.com * ***, www.googleapis.com ***, Google ** |
+| BM Morges [105] | 2 | 0 | 0 | 0 | www.meteoblue.com, www.doc-alain.com |
 
 **[b]** 10 Google, 44 Amazon, 1 AddThis
 
@@ -67,7 +68,7 @@ Le tableau ci-dessous liste le nombre de mouchards détectés par ces 3 modules 
 
 
 
-* v0.01 - fichier mis à jour le 31 décembre 2016*
-
+*v0.01 - fichier mis à jour le 31 décembre 2016*
+*v0.02 - migration des infos sur HTTPS dans [test-https.md](test-https.md) le 15 janvier 2017*
 
 
