@@ -7,8 +7,8 @@
 Commençons par définir ce que sont des données personnelles.   
 Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
 
-|  |  |  |
-| :- | :- | :- |
+| ... | ... | ... |
+| :-- | :-- | :-- |
 | `nom, prénom` | `opinions politiques` | `photo` |
 | `adresse postale` | `opinions religieuses` | `vidéo` |
 | `e-mail` | `opinions philosophiques` | `extrait sonore` |
@@ -44,6 +44,31 @@ Loi fédérale sur la protection des données les définit comme suit ([LPD art.
 
 On paraît clair qu'en cas de litige, tout cela peut vite devenir compliqué et qu'il vaut largement mieux prévenir (se protéger) que guérir (d'essayer de demander réparation).
 
+Par ailleurs, en tant qu'institution traitant des données à caractère personnel, les obligations légales suivantes s'appliquent:
+
+Art. 4 Principes
+
+> Tout traitement de données doit être licite.   
+> Leur traitement doit être effectué conformément aux principes de la bonne foi et de la proportionnalité.   
+> Les données personnelles ne doivent être traitées que dans le but qui est indiqué lors de leur collecte, qui est prévu par une loi ou qui ressort des circonstances.   
+> La collecte de données personnelles, et en particulier les finalités du traitement, doivent être reconnaissables pour la personne concernée.   
+> Lorsque son consentement est requis pour justifier le traitement de données personnelles la concernant, la personne concernée ne consent valablement que si elle exprime sa volonté librement et après avoir été dûment informée. Lorsqu'il s'agit de données sensibles et de profils de la personnalité, son consentement doit être au surplus explicite.   
+
+Art. 7 Sécurité des données
+
+> Les données personnelles doivent être protégées contre tout traitement non autorisé par des mesures organisationnelles et techniques appropriées.   
+> Le Conseil fédéral édicte des dispositions plus détaillées sur les exigences minimales en matière de sécurité des données.   
+
+Art. 10a Traitement de données par un tiers
+
+> Le traitement de données personnelles peut être confié à un tiers pour autant qu'une convention ou la loi le prévoie et que les conditions suivantes soient remplies:   
+
+>> a. seuls les traitements que le mandant serait en droit d'effectuer lui-même sont effectués;   
+>> b. aucune obligation légale ou contractuelle de garder le secret ne l'interdit.   
+
+> Le mandant doit en particulier s'assurer que le tiers garantit la sécurité des données.   
+> Le tiers peut faire valoir les mêmes motifs justificatifs que le mandant.   
+
 
 ### Rappel de sécurité
 
@@ -59,7 +84,6 @@ La protection de vos données personnelles commence par le respect des quelques 
    * À partir 4 mots sans lien les uns avec les autres
    * À l'aide d'un générateur de texte aléatoire
    * À l'aide d'un gestionnaire de mots de passe
-   Vous trouverez des détails à ce sujet dans la section [*Pour aller plus loin*](05-pour-aller-plus-loin.md) à la fin de ce document.
 
 3. Utilisez une **connexion sécurisée** lorsque vous surfez.
 
@@ -68,8 +92,8 @@ La protection de vos données personnelles commence par le respect des quelques 
 
 ## À qui faites-vous confiance ?
 
-La sécurité est la première couche de protection de vie privée. Sans elle, vous ne pouvez pas protéger efficacement vos données personnelles, mais elle n'est pas suffisante à elle toute seule.   
+La sécurité est la première couche de protection de vie privée. Sans elle, vous ne pouvez pas protéger efficacement des données personnelles, mais elle n'est pas suffisante à elle toute seule.   
 Si vous vous connectez de manière sécurisée avec un mot de passe très robuste à partir de votre ordinateur à jour à un site qui vous demande de donner des informations personnelles et que vous le faites (Facebook par ex.), aucune mesure de sécurité ne peut vous protéger.
 
-Mais il faut donc appliquer une deuxième couche afin de faire respecter au mieux votre vie privée. Elle tient en une question: **Est-ce que je fais confiance à ce site ?**.
-
+Mais il faut donc appliquer une deuxième couche afin de faire respecter au mieux votre vie privée. Elle tient en une question:   
+**Est-ce que je fais confiance à ce site ?**.
