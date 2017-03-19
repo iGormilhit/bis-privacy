@@ -14,5 +14,5 @@ Pour le reste, on peut déjà penser que ce dépôt pourrait à la fois contenir
 
 1. Choix d'une licence. @iGormilhit propose `CC-BY`. D'ailleurs, est-ce bien utile d'avoir mis ce dépôt en mode privé ? @grolimur: ok pour la licence (ai fait un test d'ajout de licence, mais ce n'est pas au format MD). Oui, c'est bien de garder le dépôt en privé pendant les premières semaines de préparation. Quand on estimera que ça commence à tenir la route et que ça devient compréhensible pour qqn d'extérieur, on ouvre.
 2. Mentionner l'affaire [ADE](https://id-libre.org/shaarli/?aUbIGw).
-3. Créer un groupe Zotero pour y faire une bibliogrpahie évolutive
+3. Créer un groupe Zotero pour y faire une bibliographie évolutive
 4. Choisir où on déposera tous les liens utiles (hors bibliogr.)
