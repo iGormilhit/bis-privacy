@@ -2,7 +2,7 @@
 
 ---
 
-Ce qui suit est repris d'[Une Introduction au Modèle de Menace](https://ssd.eff.org/fr/module/une-introduction-au-mod%C3%A8le-de-menace), document créé par l'**Electronic Frontier Foundation** et publié sous licence **CC BY** dans le cadre du projet [Surveillance Self-Defense](https://ssd.eff.org/fr).
+Ce qui suit est repris d'[*Une Introduction au Modèle de Menace*](https://ssd.eff.org/fr/module/une-introduction-au-mod%C3%A8le-de-menace), document créé par l'**Electronic Frontier Foundation** et publié sous licence **CC BY** dans le cadre du projet [Surveillance Self-Defense](https://ssd.eff.org/fr).
 
 ---
 
