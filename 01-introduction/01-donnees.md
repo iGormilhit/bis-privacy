@@ -2,27 +2,51 @@
 
 ## Données personnelles et données sensibles
 
+### Données demandées lors de l'inscription en bibliothèque
+
+Pour commencer, cochez les informations que vous demandez lors de l'inscription dans votre bibliothèque.   
+Utilisez ensuite une autre couleur pour cocher les informations que vous ne demandez pas et que vous trouveriez pratique de demander.   
+
+- [ ] nom, prénom
+- [ ] adresse postale
+- [ ] n° de téléphone fixe
+- [ ] n° de téléphone portable
+- [ ] e-mail
+- [ ] état civil
+- [ ] date de naissance
+- [ ] appartenance à une race
+- [ ] adresse IP
+- [ ] identifiant en ligne
+- [ ] opinions politiques
+- [ ] opinions religieuses
+- [ ] opinions philosophiques
+- [ ] opinions syndicales
+- [ ] mesure d’aide sociale
+- [ ] poursuites
+- [ ] sanctions pénales et administratives
+- [ ] santé
+- [ ] vie sexuelle
+- [ ] extrait sonore
+- [ ] vidéo
+- [ ] photo
+- [ ] n° AVS
+- [ ] n° d’employé
+- [ ] n° de client
+- [ ] données de localisation
+- [ ] données génétiques
+- [ ] données biométriques
+
+
+
+
+
 ### Données personnelles
 
-Commençons par définir ce que sont des données personnelles.   
-Dans la liste ci-dessous, surlignez en jaune les données personnelles !   
-
-| ... | ... | ... |
-| :-- | :-- | :-- |
-| `nom, prénom` | `opinions politiques` | `photo` |
-| `adresse postale` | `opinions religieuses` | `vidéo` |
-| `e-mail` | `opinions philosophiques` | `extrait sonore` |
-| `n° de téléphone` | `opinions syndicales` | `n° AVS` |
-| `date de naissance` | `appartenance à une race` | `n° d’employé` |
-| `état civil` | `santé` | `n° de client` |
-| `mesure d’aide sociale` | `vie sexuelle` | `adresse IP` |
-| `poursuites` | `données génétiques` | `données de localisation` |
-| `sanctions pénales et administratives` | `données biométriques` | `identifiant en ligne` |
-
+Surlignez ensuite en jaune (ou dans une couleur claire) les données que vous considérez comme personnelles.   
 
 ### Données sensibles
 
-Parmi les données personnelles, il y a une sous-catégorie de données particulièrement sensibles. Dans la liste ci-dessus, surlignez en vert les données sensibles !
+Parmi les données personnelles, il y a une sous-catégorie de données particulièrement sensibles. Dans la liste ci-dessus, surlignez en vert (ou dans une couleur plus foncée) les données que vous considérez comme sensibles !
 
 
 ### Ce que dit la loi (suisse)

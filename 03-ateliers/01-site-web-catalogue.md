@@ -1,4 +1,4 @@
-# ATELIER: AUTRE
+# ATELIER: SITE WEB & CATALOGUE
 
 **Exercice**   
 

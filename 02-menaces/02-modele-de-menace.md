@@ -1,4 +1,4 @@
-# MODÈLE DE MENACES
+## MODÈLE DE MENACES
 
 ---
 
@@ -16,3 +16,6 @@ Voici les cinq questions à vous poser pour évaluer votre modèle de menace
 1. Quelles seraient les conséquences si vous échouiez ?
 1. Quels désagréments êtes-vous disposé à affronter afin de vous en prémunir ?
 
+Prenons un exemple pour illustrer l'application du modèle de menace. Considérons les menaces qui psèent sur votre maison.
+
+...
