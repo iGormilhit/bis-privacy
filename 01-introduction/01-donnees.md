@@ -24,10 +24,10 @@ Loi fédérale sur la protection des données les définit comme suit ([LPD art.
 > a. données personnelles (données), toutes les informations qui se rapportent à une personne identifiée ou identifiable;   
 > b. personne concernée, la personne physique ou morale au sujet de laquelle des données sont traitées;   
 > c. données sensibles, les données personnelles sur:   
->    1. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,   
->    2. la santé, la sphère intime ou l'appartenance à une race,   
->    3. des mesures d'aide sociale,   
->    4. des poursuites ou sanctions pénales et administratives;   
+> >   1. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,   
+> >   2. la santé, la sphère intime ou l'appartenance à une race,   
+> >   3. des mesures d'aide sociale,   
+> >   4. des poursuites ou sanctions pénales et administratives;   
 
 À cela s’ajoute un élément supplémentaire ([LPD art. 3 al. d](https://www.admin.ch/opc/fr/classified-compilation/19920153/index.html#a3)) :
 
@@ -59,10 +59,8 @@ Par ailleurs, en tant qu'institution traitant des données à caractère personn
 
 > <sup>1</sup> Le traitement de données personnelles peut être confié à un tiers pour autant qu'une convention ou la loi le prévoie et que les conditions suivantes soient remplies:
 >
-><ol type="a">
->   <li>seuls les traitements que le mandant serait en droit d'effectuer lui-même sont effectués;</li>
->   <li>aucune obligation légale ou contractuelle de garder le secret ne l'interdit.</li>
-></ol>
+>>   a. seuls les traitements que le mandant serait en droit d'effectuer lui-même sont effectués;   
+>>   b. aucune obligation légale ou contractuelle de garder le secret ne l'interdit.
 >
 > <sup>2</sup> Le mandant doit en particulier s'assurer que le tiers garantit la sécurité des données.
 >
