@@ -36,28 +36,4 @@ Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub 
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
-La date de consultation correspond à la date de publication de la présente version.   
-
----
-
-# BIS-privacy
-
-Collaboration entre @grolimur et @iGormilhit pour un cours BIS : [Respecter la sphère privée des lecteurs : enjeux et mise en pratique](http://www.bis.ch/fr/formation-continue/agenda/kursdetail/respecter-la-sphere-privee-des-lecteurs-enjeux-et-mise-en-pratique.html "Descriptif du cours sur le site de BIS").
-
-## Gestion de projet
-
-Le dossier [`project-management`](project-management/) contient les fichiers et les données de type administratif et organisationnels.
-
-## Autres dossiers
-
-Pour le reste, on peut déjà penser que ce dépôt pourrait à la fois contenir les fichiers d'un éventuel futurs `gitbook` et d'une éventuelle présentation.
-
-## TODO
-
-- [ ] Mentionner l'affaire [ADE](https://id-libre.org/shaarli/?aUbIGw).
-- [x] Pointer vers nos bobliothèque Zotero ~~Créer un groupe Zotero pour y faire une bibliographie évolutive~~
-- [x] Choisir où on déposera tous les liens utiles (hors bibliogr.)
-- [ ] créer un fichier SUMMARY.md
-- [ ] créer un page de couverture (pour ne pas avoir la couverture par défaut de Gitbook)?
-* [ ] nettoyer le [README.md](README.md) principale (ce fichier)
-
+La date de consultation correspond à la date de publication de la présente version.
