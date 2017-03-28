@@ -3,7 +3,7 @@
 ## Récapitulatif
 
 - [ ] données personnelles
-- [ ] interactions usagers - biblithèque
+- [ ] interactions usagers - bibliothèque
 - [ ] menaces
 - [ ] solutions
 
@@ -11,6 +11,6 @@
 ## Aller plus loin...
 
 - [ ] instances searx en bibliothèque
-- [ ] noeud Tor (comme cela se fait déjà aux États-Unis
+- [ ] nœud Tor (comme cela se fait déjà aux États-Unis)
 - [ ] autre ?
 
