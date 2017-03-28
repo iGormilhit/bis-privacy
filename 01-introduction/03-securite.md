@@ -23,7 +23,8 @@ La protection de vos données personnelles commence par le respect des quelques 
 ## À qui faites-vous confiance ?
 
 La sécurité est la première couche de protection de vie privée. Sans elle, vous ne pouvez pas protéger efficacement des données personnelles, mais elle n'est pas suffisante à elle toute seule.   
-Si vous vous connectez de manière sécurisée avec un mot de passe très robuste à partir de votre ordinateur à jour à un site qui vous demande de donner des informations personnelles et que vous le faites (Facebook par ex.), aucune mesure de sécurité ne peut vous protéger.
+Si vous vous connectez de manière sécurisée avec un mot de passe très robuste à partir de votre ordinateur à jour à un site qui vous demande de donner des informations personnelles et que vous le faites (Facebook par ex.), aucune mesure de sécurité ne peut vous protéger.   
+De même, la présence du cadenas vert vous assure que la connection avec le site que vous visitez est chiffrée, mais cela ne vous empêche pas de vérifier si l'adresse de ce site semble normale et que ce site est bien celui qu'il prétend être.
 
-Mais il faut donc appliquer une deuxième couche afin de faire respecter au mieux votre vie privée. Elle tient en une question:   
-**Est-ce que je fais confiance à ce site ?**.
+Il faut donc appliquer une deuxième couche afin de faire respecter au mieux votre vie privée. Elle tient en une question:   
+**Est-ce que je fais confiance à ce site ?**
