@@ -13,12 +13,12 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 
 
 ## Objectifs de la formation
-* comprendre les enjeux et le cadre légal/réglementaire liés à la protection de la sphère pri-vée en bibliothèque
+* comprendre les enjeux et le cadre légal/réglementaire liés à la protection de la sphère privée en bibliothèque
 * comprendre à quel niveau il est possible et/ou nécessaire d'agir
 * savoir ce qu’il est possible et/ou nécessaire de faire à chaque niveau
 
 ## Licence `CC BY`
-> *Vous avez le droit de réutiliser le contenu de ce document à condition que mon nom et celui de l'Université populaire de Lausanne soient mentionnés. Pour de plus amples informations sur la licence, référez-vous au lien indiqué dans la mention légale ci-dessous.*   
+> *Vous avez le droit de réutiliser le contenu de ce document à condition que les noms des auteurs soient mentionnés. Pour de plus amples informations sur la licence, référez-vous au lien indiqué dans la mention légale ci-dessous.*   
 > -- *Igor Milhit & Raphaël Grolimund*   
 
 ![logo CC-BY](img/by.svg)   
@@ -41,4 +41,4 @@ Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub 
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   
-La date de consultation correspond à la date de publication de la présente version.   
+La date de consultation correspond à la date de publication de la présente version.

@@ -40,4 +40,5 @@ Dans la liste ci-dessous, surlignez en jaune (ou dans une couleur claire) les do
 Parmi les données personnelles, il y a une sous-catégorie de données particulièrement sensibles. Dans la liste ci-dessus, surlignez en vert (ou dans une couleur plus foncée) les données que vous considérez comme sensibles !
 
 ---
-*Notes personnelles*
+*Liste et notes personnelles*
+
