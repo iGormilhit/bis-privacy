@@ -27,9 +27,9 @@ Si vous voulez distribuer ce document, la dernière version est disponible sur [
 Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur [https://framagit.org/iGormilhit/bis-privacy](https://framagit.org/iGormilhit/bis-privacy).
 
 
-## Version `0.0.9`
-La dernière version de ce document est disponible sur ...   
-Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
+## Versions
+La dernière version de ce document est disponible sur [gitbook](https://www.gitbook.com/book/igormilhit/bis-privacy) ou dans la liste des [*releases*](https://github.com/iGormilhit/bis-privacy/releases).   
+Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.
 
 **Historique des versions**
 
