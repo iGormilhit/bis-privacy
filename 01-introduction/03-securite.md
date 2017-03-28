@@ -17,7 +17,7 @@ La protection de vos données personnelles commence par le respect des quelques 
 
    Assurez-vous que les sites que vous visitez fournissent un accès sécurisé en vérifiant qu'il y a bien un cadenas dans la barre d'adresse de votre navigateur. Si ce n'est pas le cas, la capture d'écran ci-dessous vous le montre.
 
-<img src="../img/http-https.png" title="Capture d'écran pour la connexion sécurisée" style="width=200px" />
+<img src="../img/http-https.png" title="Capture d'écran pour la connexion sécurisée" style="width:200px" />
 
 
 ## À qui faites-vous confiance ?
