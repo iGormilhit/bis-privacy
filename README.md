@@ -22,13 +22,11 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 ![logo CC-BY](img/by.svg)   
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).
 
-Si vous voulez distribuer ce document, la dernière version est disponible sur [Gitbook](...).
-
 Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur [https://framagit.org/iGormilhit/bis-privacy](https://framagit.org/iGormilhit/bis-privacy).
 
 
 ## Versions
-La dernière version de ce document est disponible sur [gitbook](https://www.gitbook.com/book/igormilhit/bis-privacy) ou dans la liste des [*releases*](https://github.com/iGormilhit/bis-privacy/releases).   
+La dernière version de ce document est disponible sur [GitBook](https://www.gitbook.com/book/igormilhit/bis-privacy) ou dans la liste des [*releases*](https://github.com/iGormilhit/bis-privacy/releases).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.
 
 ## Informations complémentaires
