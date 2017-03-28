@@ -1,5 +1,3 @@
-OPOS
-
 ## Description
 Les présentes notes du cours ont été distribuées aux participants du cours **Respecter la sphère privée des lecteurs**, dispensé dans le cadre du programme de [formation continue de BIS](http://www.bis.ch/fr/formation-continue.html).
 
