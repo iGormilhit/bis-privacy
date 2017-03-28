@@ -49,3 +49,5 @@ Art. 10a Traitement de données par un tiers
 
 > Les relations entre les usagers et les services documentaires demeurent confidentielles. Les professionnels de l'information respectent la vie privée et garantissent la protection des données personnelles qui, de fait, sont partagées entre les usagers et ces services. Ils prennent les mesures appropriées pour garantir que les données ne soient pas utilisées à d'autres fins que celles qui ont présidé à leur récolte.
 
+---
+*Notes personnelles*

@@ -1,7 +1,7 @@
 # À PROPOS
 
 ## Description
-Les présentes notes du cours ont été distribuées aux participants du cours ...
+Les présentes notes du cours ont été distribuées aux participants du cours **Respecter la sphère privée des lecteurs**, dispensé dans le cadre du programme de [formation continue de BIS](http://www.bis.ch/fr/formation-continue.html).
 
 ![logo BIS](img/BIS_logo.png)   
 Les cours de formation continue BIS sont destinés aux bibliothécaires et professionnels de l'information suisses.
@@ -24,15 +24,20 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 ![logo CC-BY](img/by.svg)   
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).
 
-Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur ...
+Si vous voulez distribuer ce document, la dernière version est disponible sur [Gitbook](...).
+
+Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur [https://framagit.org/iGormilhit/bis-privacy](https://framagit.org/iGormilhit/bis-privacy).
 
 
-## Version `0.X`
+## Version `0.0.9`
 La dernière version de ce document est disponible sur ...   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
-*Historique des versions*   
+**Historique des versions**
 
+| version | date | description |
+| :------ | :--- | :---------- |
+| **v0.0.9** | 28.03.2017 | *release candidate* (RC) |
 
 ## Informations complémentaires
 Tous les liens ont été consultés avant la mise en ligne du document et étaient accessibles.   

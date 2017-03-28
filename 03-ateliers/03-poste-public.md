@@ -3,6 +3,6 @@
 **Exercice**   
 
 
-___
-*Notes personnelles*
 
+---
+*Notes personnelles (notamment en vue de la discussion)*

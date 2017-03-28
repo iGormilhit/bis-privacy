@@ -16,6 +16,6 @@ Privacy Badger: [https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/](
 uMatrix: [https://addons.mozilla.org/fr/firefox/addon/umatrix/](https://addons.mozilla.org/fr/firefox/addon/umatrix/)   
 HTTPS Everywhere: [https://addons.mozilla.org/fr/firefox/addon/https-everywhere/](https://addons.mozilla.org/fr/firefox/addon/https-everywhere/)   
 
-___
-*Notes personnelles*
 
+---
+*Notes personnelles (notamment en vue de la discussion)*

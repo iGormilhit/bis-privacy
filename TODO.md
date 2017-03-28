@@ -13,6 +13,9 @@ Pour le reste, on peut déjà penser que ce dépôt pourrait à la fois contenir
 
 ## CHECK FICHIERS
 
+- [ ] ajouter lien vers Gitbook dans README.md (on le met où: chez toi ?)
+- [ ] rédiger le détail des meances qui pèsent sur la maison (02-menaces/01-modele-de-menace.md) ??
+ 
 ### IM
 
 - [ ] SUMMARY.md à finaliser ~~créer un fichier SUMMARY.md~~
@@ -39,18 +42,17 @@ Pour le reste, on peut déjà penser que ce dépôt pourrait à la fois contenir
 ### RG
 
 - [ ] SUMMARY.md à finaliser ~~créer un fichier SUMMARY.md~~
-- [ ] cover.jpg et small-cover.jpg (à tester sur Gitbook)
-- [ ] [À propos](README.md)
-- [ ] [Programme](00-programme.md)
-- [ ] [Introduction](01-introduction/README.md)
-    - [ ] [Données personnelles et sensibles](01-introduction/01-donnees.md)
-    - [ ] [Loi et déontologie](01-introduction/02-loi-deontologie.md)
-- [ ] [Menaces](02-menaces/README.md)
-    - [ ] [Interactions usagers-bibliothèque](02-menaces/01-usagers-bib.md)
-    - [ ] [Modèle de menace](02-menaces/02-modele-de-menace.md)
-    - [ ] [Exercice: modèle de menace](02-menaces/03-tableau-menaces.md)
-- [ ] [Ateliers](03-ateliers/README.md)
-    - [ ] [Sites web & catalogues](03-ateliers/01-site-web-catalogue.md)
+- [x] cover.jpg et small-cover.jpg (à tester sur Gitbook)
+- [x] [À propos](README.md)
+- [x] [Programme](00-programme.md)
+- [x] [Introduction](01-introduction/README.md)
+    - [x] [Données personnelles et sensibles](01-introduction/01-donnees.md)
+    - [x] [Loi et déontologie](01-introduction/02-loi-deontologie.md)
+- [x] [Menaces](02-menaces/README.md)
+    - [x] [Modèle de menace](02-menaces/01-modele-de-menace.md)
+    - [x] [Exercice: modèle de menace](02-menaces/02-tableau-menaces.md)
+- [x] [Ateliers](03-ateliers/README.md)
+    - [x] [Sites web & catalogues](03-ateliers/01-site-web-catalogue.md)
     - [ ] [Animations & formations](03-ateliers/02-animations-formations.md)
     - [ ] [Postes (informatiques) publics](03-ateliers/03-poste-publics.md)
     - [ ] [Guichet physique et virtuel](03-ateliers/04-guichet.md)

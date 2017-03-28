@@ -4,6 +4,7 @@ Dans la liste établie un peu plus tôt, choisissez 3 situations où les usagers
 
 *Indiquez vos réponses sur la droite du tableau en regard des questions.*
 
+___
 
 SITUATION #1 CHOISIE: 
 ___
@@ -16,6 +17,8 @@ ___
 | Conséquences en cas d'échec ? |
 | Désagréments acceptables pour s'en prémunir ? |
 
+___
+
 SITUATION #2 CHOISIE: 
 ___
 
@@ -26,6 +29,8 @@ ___
 | Probabilité de devoir le protéger ? |
 | Conséquences en cas d'échec ? |
 | Désagréments acceptables pour s'en prémunir ? |
+
+___
 
 SITUATION #3 CHOISIE: 
 ___
