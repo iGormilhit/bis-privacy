@@ -8,6 +8,7 @@
 
 ### Références en français
 
+ASSOCIATION DES BIBLIOTHÉCAIRES DE FRANCE, 2017. [Communiqué ] L’ABF s’engage pour que les bibliothèques restent un espace de liberté pour s’informer. *Association des Bibliothécaires de France* [en ligne]. 11 janvier 2017. [Consulté le 12 janvier 2017]. Disponible à l’adresse : [http://www.abf.asso.fr/1/22/646/ABF/-communique-labf-sengage-pour-que-les-bibliotheques-restent-un-espace-de-liberte-pour-sinformer](http://www.abf.asso.fr/1/22/646/ABF/-communique-labf-sengage-pour-que-les-bibliotheques-restent-un-espace-de-liberte-pour-sinformer)
 
 ### Références en anglais
 
@@ -40,6 +41,10 @@ Vous pouvez d'ailleurs vous abonner aux flux RSS de ces collections afin de ne p
 
 
 ### Liens en anglais
+
+Un petit recueil de liens sur une version du logiciel *Adobe Digital Edition* qui rassemblait beaucoup d'informations sur les pratiques de lectures des usagers de bibliothèques proposant des livres électroniques avec DRM. Les données récoltées étaient dans un premier temps communiquées aux serveurs d'Adobe sans aucune sécurité: [https://id-libre.org/shaarli/?aUbIGw](https://id-libre.org/shaarli/?aUbIGw)
+
+--------
 
 Les liens indiqués ci-dessus ne sont qu'une sélection parmi les nombreuses sources d'information à disposition sur le sujet. Les favoris d'Igor et Raphaël contiennent bien plus de liens et ils en ajoutent régulièrement. Les liens traitant de ce sujet portent le tag `privacy`:
 
