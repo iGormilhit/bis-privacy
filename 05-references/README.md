@@ -42,16 +42,19 @@ Vous pouvez d'ailleurs vous abonner aux flux RSS de ces collections afin de ne p
 
 ## Liens utiles
 
-- [ ] quelques liens en français
-- [ ] quelques liens en anglais
-- [x] liens vers nos instances Shaarli
-
 ### Liens en français
 
+Une Introduction au Modèle de Menace par l'*Electronic Frontier Foundation*: [https://gmva.ch/shaarli/?z__-yw](https://gmva.ch/shaarli/?z__-yw)
+
+Projet de Framasoft visant à proposer une "alternative Libre, Éthique, Décentralisée et Solidaire" aux services proposés par Google, Apple, Facebook, Amazon et Microsoft: [https://gmva.ch/shaarli/?giElFQ](https://gmva.ch/shaarli/?giElFQ)
 
 ### Liens en anglais
 
 Un petit recueil de liens sur une version du logiciel *Adobe Digital Edition* qui rassemblait beaucoup d'informations sur les pratiques de lectures des usagers de bibliothèques proposant des livres électroniques avec DRM. Les données récoltées étaient dans un premier temps communiquées aux serveurs d'Adobe sans aucune sécurité: [https://id-libre.org/shaarli/?aUbIGw](https://id-libre.org/shaarli/?aUbIGw)
+
+Collection de ressources sur la protection de la sphère privée en bibliothèque à l'ère du numérique: [https://gmva.ch/shaarli/?4KWPuA](https://gmva.ch/shaarli/?4KWPuA)
+
+Site US qui cherche à mieux sensibiliser les bibliothèques aux questions de la protection de la vie privée, en proposant de mettre du https partout ou de monter des relais TOR en bibliothèque (ou au moins de mettre Tor Browser sur les postes de la bibliothèque): [https://id-libre.org/shaarli/?5GRQRw](https://id-libre.org/shaarli/?5GRQRw)
 
 --------
 

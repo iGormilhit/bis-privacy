@@ -5,7 +5,7 @@
 * [Introduction](01-introduction/README.md)
     * [Données personnelles et sensibles](01-introduction/01-donnees.md)
     * [Loi et déontologie](01-introduction/02-loi-deontologie.md)
-    * [Sécurité (rappel)](01-introduction/03-securite.md)securite.md)
+    * [Sécurité (rappel)](01-introduction/03-securite.md/)
 * [Menaces](02-menaces/README.md)
     * [Modèle de menace](02-menaces/01-modele-de-menace.md)
     * [Exercice: modèle de menace](02-menaces/02-tableau-menaces.md)
