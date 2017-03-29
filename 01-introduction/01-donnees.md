@@ -1,5 +1,3 @@
-# INTRODUCTION
-
 ## Données personnelles et données sensibles
 
 ### Données demandées lors de l'inscription en bibliothèque

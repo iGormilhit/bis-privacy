@@ -31,14 +31,15 @@ HUNT, Troy, 2017. We’ve lost control of our personal data (including 33M NetPr
 
 VARNUM, Ken, 2015. Editorial Board Thoughts: Library Analytics and Patron Privacy. Information Technology and Libraries. 22 décembre 2015. Vol. 34, n° 4, pp. 2‑4. DOI 10.6017/ital.v34i4.9151. 00000
 
------
 
-Cette bibliographie n'est qu'une sélection parmi les nombreuses sources d'information à disposition sur le sujet. Les bibliothèques Zotero d'Igor et Raphaël contiennent bien plus et sont mises à jour régulièrement. Les documents traitant de ce sujet portent le tag `privacy`:
+*Cette bibliographie n'est qu'une sélection parmi les nombreuses sources d'information à disposition sur le sujet. Les bibliothèques Zotero d'Igor et Raphaël contiennent bien plus et sont mises à jour régulièrement. Les documents traitant de ce sujet portent le tag `privacy`:*
 
 Igor: [https://www.zotero.org/igor.m/items/tag/Privacy](https://www.zotero.org/igor.m/items/tag/Privacy)   
 Raphaël: [https://www.zotero.org/grolimur/items/tag/privacy](https://www.zotero.org/grolimur/items/tag/privacy)
 
 Vous pouvez d'ailleurs vous abonner aux flux RSS de ces collections afin de ne pas rater une seule mise à jour.
+
+-----
 
 ## Liens utiles
 
@@ -56,9 +57,7 @@ Collection de ressources sur la protection de la sphère privée en bibliothèqu
 
 Site US qui cherche à mieux sensibiliser les bibliothèques aux questions de la protection de la vie privée, en proposant de mettre du https partout ou de monter des relais TOR en bibliothèque (ou au moins de mettre Tor Browser sur les postes de la bibliothèque): [https://id-libre.org/shaarli/?5GRQRw](https://id-libre.org/shaarli/?5GRQRw)
 
---------
-
-Les liens indiqués ci-dessus ne sont qu'une sélection parmi les nombreuses sources d'information à disposition sur le sujet. Les favoris d'Igor et Raphaël contiennent bien plus de liens et ils en ajoutent régulièrement. Les liens traitant de ce sujet portent le tag `privacy`:
+*Les liens indiqués ci-dessus ne sont qu'une sélection parmi les nombreuses sources d'information à disposition sur le sujet. Les favoris d'Igor et Raphaël contiennent bien plus de liens et ils en ajoutent régulièrement. Les liens traitant de ce sujet portent le tag `privacy`:*
 
 Igor: [https://id-libre.org/shaarli/?searchtags=privacy](https://id-libre.org/shaarli/?searchtags=privacy)   
 Raphaël: [https://gmva.ch/shaarli/?searchtags=privacy](https://gmva.ch/shaarli/?searchtags=privacy)
