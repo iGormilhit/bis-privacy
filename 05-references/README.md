@@ -2,17 +2,26 @@
 
 ## Bibliographie sélective
 
-- [ ] références en français
-- [x] références en anglais
-- [x] liens vers nos bibliothèque Zotero
-
 ### Références en français
 
 ASSOCIATION DES BIBLIOTHÉCAIRES DE FRANCE, 2017. [Communiqué ] L’ABF s’engage pour que les bibliothèques restent un espace de liberté pour s’informer. *Association des Bibliothécaires de France* [en ligne]. 11 janvier 2017. [Consulté le 12 janvier 2017]. Disponible à l’adresse : [http://www.abf.asso.fr/1/22/646/ABF/-communique-labf-sengage-pour-que-les-bibliotheques-restent-un-espace-de-liberte-pour-sinformer](http://www.abf.asso.fr/1/22/646/ABF/-communique-labf-sengage-pour-que-les-bibliotheques-restent-un-espace-de-liberte-pour-sinformer)
 
+CHARLET, François, 2016a. 10 trucs et astuces pour « rester anonyme » sur Internet. *francoischarlet.ch* [en ligne]. 28 janvier 2016. [Consulté le 2 octobre 2016]. Disponible à l’adresse : [https://francoischarlet.ch/2016/10-trucs-et-astuces-pour-rester-anonyme-sur-internet/](https://francoischarlet.ch/2016/10-trucs-et-astuces-pour-rester-anonyme-sur-internet/)
+
+CHARLET, François, 2016b. Quelques points noirs de la LRens. *francoischarlet.ch* [en ligne]. 15 septembre 2016. [Consulté le 2 octobre 2016]. Disponible à l’adresse : [https://francoischarlet.ch/2016/quelques-points-noirs-de-la-lrens/](https://francoischarlet.ch/2016/quelques-points-noirs-de-la-lrens/)
+
+FOURMEUX, Thomas, 2015. *Kit pour protéger ses données personnelles en bibliothèque*. [en ligne]. 1 décembre 2015. [Consulté le 4 décembre 2015]. Disponible à l’adresse : [http://fr.slideshare.net/Biblioveilleur/kit-pour-protger-ses-donnes-personnelles-en-bibliothque](http://fr.slideshare.net/Biblioveilleur/kit-pour-protger-ses-donnes-personnelles-en-bibliothque)
+
+NITOT, Tristan, 2016. *surveillance://*. C&F éditions. ISBN 978-2-915825-65-7.
+
+POUHIOU, 2016. 10 trucs que j’ignorais sur Internet et mon ordi (avant de m’y intéresser…). *Framablog* [en ligne]. 23 novembre 2016. [Consulté le 30 novembre 2016]. Disponible à l’adresse : [https://framablog.org/2016/11/23/10-trucs-que-jignorais-sur-internet-et-mon-ordi-avant-de-my-interesser/](https://framablog.org/2016/11/23/10-trucs-que-jignorais-sur-internet-et-mon-ordi-avant-de-my-interesser/)
+
+
 ### Références en anglais
 
 AMERICAN LIBRARY ASSOCIATION (ALA), 2016. Library Privacy Guidelines for Library Management Systems. *American Library Association (ALA)* [en ligne]. 24 juin 2016. [Consulté le 13 septembre 2016]. Disponible à l’adresse : [http://www.ala.org/advocacy/library-privacy-guidelines-library-management-systems](http://www.ala.org/advocacy/library-privacy-guidelines-library-management-systems)
+
+BREEDING, Marshall, 2016. *Privacy and security for library systems*. Chicago, IL : ALA TechSource. Library technology reports. ISBN 978-0-8389-5972-5.
 
 FORTIER, Alexandre et BURKELL, Jacquelyn, 2015. Hidden online surveillance: What librarians should know to protect their own privacy and that of their patrons. *Information Technology and Libraries*. 21 septembre 2015. Vol. 34, n° 3, pp. 59‑72. DOI 10.6017/ital.v34i3.5495.
 

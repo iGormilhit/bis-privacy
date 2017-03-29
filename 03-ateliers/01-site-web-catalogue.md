@@ -5,11 +5,12 @@ Identifiez toutes les menaces guettant les usagers lorsqu'ils visitent le site w
 Pour cela, visitez les sites web et catalogues de vos bibliothèques respectives.
 
 ### Informations techniques
-**Utilisez Firefox** pour cet atelier afin de pouvoir installez les modules listés ci-dessous. Si vous n'utilisez pas Firefox d'habitude ou s'il n'est pas installé sur l'ordinateur que vous pris avec vous, utilisez l'ordinateur mis à disposition en cours.
+**Utilisez Firefox** sur l'ordinateur mis à disposition pour cet atelier, afin de pouvoir vous servir des modules installés.
 
-Si vous installez/activez **Lightbeam**, vous verrez les sites que vous visitez, ainsi que tous ceux qui en profite pour vous traquer.
-Si vous installez/activez **Privacy Badger**, vous pourrez visualiser tous les traqueurs qui cherchent à s'installer dans votre navigateur lorsque vous visitez une page web.
-Si vous installez/activez **uMatrix**, vous bloquerez par défaut tous les contenus qui ne proviennent pas directement du site que vous visitez. Vous pouvez ensuite autoriser au cas par cas les contenus externes nécessaires au bon fonctionnement du site. Ce test offre l'intérêt de mieux comprendre comment est fait le Web aujourd'hui et les implications pour le respect des données personnelles de cette architecture.
+Si vous activez **Lightbeam**, vous verrez les sites que vous visitez, ainsi que tous ceux qui en profite pour vous traquer.
+Si vous activez **Privacy Badger**, vous pourrez visualiser tous les traqueurs qui cherchent à s'installer dans votre navigateur lorsque vous visitez une page web.
+Si vous activez **uMatrix**, vous bloquerez par défaut tous les contenus qui ne proviennent pas directement du site que vous visitez. Vous pouvez ensuite autoriser au cas par cas les contenus externes nécessaires au bon fonctionnement du site. Ce test offre l'intérêt de mieux comprendre comment est fait le Web aujourd'hui et les implications pour le respect des données personnelles de cette architecture.
+Si vous activez **HTTPS Everywhere**, ce module essaiera de se connecter de manière sécurisée aux pages que vous visitez chaque fois que c'est possible.
 
 Lightbeam: [https://addons.mozilla.org/fr/firefox/addon/lightbeam/](https://addons.mozilla.org/fr/firefox/addon/lightbeam/)   
 Privacy Badger: [https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/)   
