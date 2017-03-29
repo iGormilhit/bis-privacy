@@ -15,7 +15,7 @@ Loi fédérale sur la protection des données les définit comme suit ([LPD art.
 
 > d. profil de la personnalité, un assemblage de données qui permet d'apprécier les caractéristiques essentielles de la personnalité d'une personne physique;
 
-On paraît clair qu'en cas de litige, tout cela peut vite devenir compliqué et qu'il vaut largement mieux prévenir (se protéger) que guérir (d'essayer de demander réparation).
+Il paraît clair qu'en cas de litige, tout cela peut vite devenir compliqué et qu'il vaut largement mieux prévenir (se protéger) que guérir (d'essayer de demander réparation).
 
 Par ailleurs, en tant qu'institution traitant des données à caractère personnel, les obligations légales suivantes s'appliquent:
 

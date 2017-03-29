@@ -22,7 +22,7 @@ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 ![logo CC-BY](img/by.svg)   
 Cette œuvre est mise à disposition selon les termes de la [Licence Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).
 
-Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur [https://framagit.org/iGormilhit/bis-privacy](https://framagit.org/iGormilhit/bis-privacy).
+Si vous souhaitez adapter ce document, les fichiers sources sont disponibles sur [https://github.com/iGormilhit/bis-privacy](https://github.com/iGormilhit/bis-privacy).
 
 
 ## Versions
