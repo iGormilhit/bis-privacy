@@ -1,4 +1,4 @@
-# ATELIER: ANIMATIONS & FORMATIONS
+# ATELIER: Animations & formations
 
 **Exercice**   
 Considérez toutes les étapes d'une animation ou d'une formation, de son organisation à sa tenue, en passant par la communication et les actions que vous méneriez après l'événement.

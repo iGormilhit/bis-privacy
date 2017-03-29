@@ -1,4 +1,4 @@
-# ATELIER: GUICHET PHYSIQUE ET VIRTUEL
+# ATELIER: Autre situation
 
 **Exercice**   
 Si au cours de la matinée, une situation différente des quatres précédentes vous a particulièrement intéressé et/ou interpellé, vous pouvez choisir de la traiter dans le cadre d'un atelier.

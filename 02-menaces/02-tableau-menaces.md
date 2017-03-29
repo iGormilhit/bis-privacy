@@ -1,4 +1,4 @@
-# EXERCICE: MODÈLE DE MENACE
+# EXERCICE: Modèle de menace
 
 Dans la liste établie un peu plus tôt, choisissez 3 situations où les usagers entrent en interaction avec la bibliothèque et établissez le modèle de menace pour chacune d'entre elle (**par groupe de 2 personnes**).   
 

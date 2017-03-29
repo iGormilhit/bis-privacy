@@ -1,4 +1,4 @@
-# ATELIER: POSTES (INFORMATIQUES) PUBLICS
+# ATELIER: Postes (informatiques) publics
 
 **Exercice**   
 Considérez les postes informatiques que vous mettez à disposition du public et la façon dont ils sont équipés/configurés. L'ordinateur à votre disposition pour cet atelier vous permet de faire des tests afin 

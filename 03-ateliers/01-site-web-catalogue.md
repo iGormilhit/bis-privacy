@@ -1,4 +1,4 @@
-# ATELIER: SITE WEB & CATALOGUE
+# ATELIER: Site web & catalogue
 
 ### Exercice
 Identifiez toutes les menaces guettant les usagers lorsqu'ils visitent le site web ou consultent le catalogue d'une bibliothèque.

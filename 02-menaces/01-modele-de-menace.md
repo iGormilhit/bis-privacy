@@ -1,4 +1,4 @@
-## MODÈLE DE MENACE
+## Modèle de menace
 
 ---
 
